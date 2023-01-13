@@ -1,12 +1,17 @@
 ---
 permalink: /
-title: "Welcome to my homepage."
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+
+
+
 
 I am a Research Master student at the Graduate School of Economics and Business, University of Groningen. My current research focuses on expanding the behavioural theory of the firm from an international business lens. Currently, I am studying the challenges for learning from performance feedback that arise as companies advance in their internationalisation process.
 
