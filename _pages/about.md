@@ -13,6 +13,9 @@ redirect_from:
 
 
 
-I am a Research Master student at the Graduate School of Economics and Business, University of Groningen. My current research focuses on expanding the behavioural theory of the firm from an international business lens. Currently, I am studying the challenges for learning from performance feedback that arise as companies advance in their internationalisation process.
+I am a Research Master student at the Graduate School of Economics and Business, University of Groningen. My research interests converge on expanding the behavioural theory of the firm employing an international business lens. Currently, I am exploring the challenges that companies face for learning from performance feedback throughout their internationalisation process.
 
-In the pursuit of my research interests, I have used both quantitative and qualitative methods as well as theoretical/computational organisational models.
+In pursuing research about organisations, I have used both quantitative and qualitative methods as well as theoretical/computational organisational models.
+
+You can check my research [here](https://jbolanoshurtado.github.io/publications/ "To current research"), and my cv [here](https://jbolanoshurtado.github.io/cv/ "To my CV"). 
+
