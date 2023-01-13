@@ -1,7 +1,7 @@
 ---
 title: "Export market orientation and export performance in emerging markets: insights from the Peruvian agri-export sector"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/paper_JADEE_2022
 excerpt: 'This paper integrates several exporting firm capabilities and tests their relevance for increasing export performance.'
 date: 2021-09-14
 venue: 'Journal of Agribusiness in Developing and Emerging Economies'
