@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jean Pierre Bolanos"
+title                    : "Jean Pierre Bolaños"
 title_separator          : "-"
-name                     : &name "Jean Pierre Bolanos"
-description              : &description "Academic webpage - Jean Pierre Bolanos"
+name                     : &name "Jean Pierre Bolaños"
+description              : &description "Academic webpage - Jean Pierre Bolaños"
 url                      : "https://jbolanoshurtado.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jbolanoshurtado/jbolanoshurtado.github.io"
@@ -89,20 +89,20 @@ author:
   googlescholar    : 
   email            :  "j.p.bolanos@student.rug.nl"
   researchgate     :  "https://www.researchgate.net/profile/Jean-Pierre-Bolanos"
-  uri              :  "https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=121292"
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jbolanoshurtado"
+  github           : "jbolanoshurtado"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://pe.linkedin.com/in/jeanpierrebolanoshurtado"
+  linkedin         : "jeanpierrebolanoshurtado"
   orcid            : "https://orcid.org/0000-0003-0445-3798"
   pinterest        :
   soundcloud       :
