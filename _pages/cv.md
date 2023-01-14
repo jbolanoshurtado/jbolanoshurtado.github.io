@@ -14,6 +14,7 @@ redirect_from:
 Education
 ======
 * Research master in Economics and Business, **University of Groningen**, 2021-now (full tuition scholarship)
+* Honours Masters, Honours College, **University of Groningen, 2022-now
 * Licentiate title in International Business, **Universidad del Pacífico**, 2021 (outstanding [thesis](https://hdl.handle.net/11354/3109
 ) honours)
 * Bachelor's degree in International Business, **Universidad del Pacífico**, 2012-2016 (valedictorian, Class of 2016-II)
