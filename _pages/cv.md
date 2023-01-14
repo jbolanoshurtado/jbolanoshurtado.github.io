@@ -34,3 +34,23 @@ Conference papers, book chapters, and white papers
 * One [chapter handbook](http://jbolanoshurtado.github.io/files/Malca_Bolanos_(2019)_Export_Market_Orientation.pdf) in the 2020 edited book "América Latina y Asia Pacífico: Relaciones y proyecciones de cara a un mundo turbulento" by Dr. Shirley Gotz
 
 * A [report](https://www.observatorioalianzadelpacifico.net/_files/ugd/438ac2_e83db098dea542488773a1edcde56e19.pdf) in 2018 for the Strategic Observatory for the Pacific Alliance ([OEAP](https://www.observatorioalianzadelpacifico.net/)) 
+
+Awards, fellowships, and grants
+======
+* Second year full tuition scholarship (EUR 16201) - **University of Groningen**, Graduate School of Economics and Business (Jul/2022)
+* Agent-based modelling course scholarship (USD 50) - **Santa Fe Institute**, Complexity Explorer (Jun/2022)
+* First year tuition scholarship (EUR 13732) - **University of Groningen**, Graduate School of Economics and Business (March/2021)
+* Conference travel grants (USD 4800) - **Universidad del Pacífico**, Vice Presidency for Research (Oct/2018, Oct/2017, Sep/2016)
+* First place in the 2016 Honour Roll, Research Category - **Universidad del Pacífico** (2016)
+* Prize for academic performance, first place - **Universidad del Pacífico**, Graduation Class of 2016-II (2016)
+* Valedictorian, Class of 2016-II - **Universidad del Pacífico**, International Business programme (2016)
+
+Consultancy work
+======
+* 2019: Pacific Alliance Technical Group of Trade Promotion Agencies ([GTAP]("https://alianzapacifico.net/en/technical-group-promotion-agencies/")): ProChile, ProColombia, Secretaría de Economía Mexico, and PromPerú. 
+* 2017-2018: Peruvian Ministry of Foreign Trade and Tourism ([MINCETUR]("https://www.gob.pe/mincetur")) - 23 Regional Directorates of Foreign Trade and Tourism ([DIRCETUR]("https://www.gob.pe/8361-direcciones-regionales-de-comercio-exterior-y-turismo-dircetur")).
+* 2016: Strategy and market research consultancies for companies and NGOs undertaken in France, Peru, and Slovenia.  
+
+Coding languages and computer programmes
+======
+NetLogo, LaTeX, Vensim, R, STATA, GPower, AMOS, SPSS(PSPP), VBA, MS Office suite.
