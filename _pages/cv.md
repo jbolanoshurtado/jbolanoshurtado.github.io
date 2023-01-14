@@ -9,32 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://jbolanoshurtado.github.io/files/CV_JP_Bolaños.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research master in Economics and Business, **University of Groningen**, 2023 (expected)
+* Licentiate title in International Business, **Universidad del Pacífico**, 2021 (outstanding [thesis](https://hdl.handle.net/11354/3109
+) honours)
+* Bachelor's degree in International Business, **Universidad del Pacífico**, 2016 (valedictorian, Class of 2016-II)
 
 Publications
 ======
@@ -42,18 +24,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  Three articles in [2018](http://jbolanoshurtado.github.io/files/Malca_Bolanos_(2018)_Export_capacities_and_export_intensity.pdf), [2017](http://jbolanoshurtado.github.io/files/Malca_Bolanos_(2017)_Export_market_orientation.pdf), and [2016](http://jbolanoshurtado.github.io/files/Padilla_Bolanos_(2016)_Resources_capabilities_and_experience_on_export_performance.pdf) for the Conference Series "Catedra Alianza Asia Pacífico" held at Universidad Iberoamericana (Mexico City), Universidad Alberto Hurtado (Santiago de Chile), and Universidad del Pacífico (Lima).
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  One [article](http://jbolanoshurtado.github.io/files/Bolanos Higuchi _paper_1302.pdf) in the proceedings of the XXV Conference Agrarian Perspectives, Czech University of Life Sciences (Prague).
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  One [chapter handbook](http://jbolanoshurtado.github.io/files/Malca_Bolanos_(2019)_Export_Market_Orientation.pdf) in the 2020 edited book "América Latina y Asia Pacífico: Relaciones y proyecciones de cara a un mundo turbulento" by Dr. Shirley Gotz
