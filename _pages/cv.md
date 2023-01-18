@@ -47,4 +47,4 @@ redirect_from:
 * 2016: Strategy and market research consultancies for companies and NGOs undertaken in France, Peru, and Slovenia.  
 
 ## Coding languages and computer programmes
-NetLogo, LaTeX, Vensim, R, STATA, GPower, AMOS, SPSS(PSPP), VBA, MS Office suite.
+NetLogo, LaTeX, Vensim, R, STATA, GPower, AMOS, SPSS(PSPP), Qualtrics, VBA, MS Office suite.
