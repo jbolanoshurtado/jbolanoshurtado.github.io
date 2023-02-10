@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://jbolanoshurtado.github.io/files/CV_JP_Bolanos.pdf)
+[Download CV here](http://jbolanoshurtado.github.io/files/cvjobolanos.pdf)
 
 ## Education
 * Research master in Economics and Business, **University of Groningen**, 2021-now (full tuition scholarship)
