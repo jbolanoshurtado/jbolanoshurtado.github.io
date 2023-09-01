@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Department of Global Economics and Management, University University of Groningen.
+I am a PhD candidate at the Department of Global Economics and Management, University of Groningen.
 
 My research interests relate to aspects of behavioural theory of the firm.  These include learning from performance feedback, the pursuit of multiple goals, searching for solutions in difficult landscapes, and change in organisations.  I enjoy exploring these topics from an International Business point of view.
 
