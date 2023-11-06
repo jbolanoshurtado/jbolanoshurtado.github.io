@@ -12,11 +12,10 @@ redirect_from:
 [Download CV here](http://jbolanoshurtado.github.io/files/cvjpbolanos.pdf)
 
 ## Education
-* 2023 - Research master Economics and Business, **University of Groningen** (Cum laude honours)
-* 2023 - Honours master, Honours College, **University of Groningen** (founder: [ISG](https://isg-gei.github.io/))
-* 2021 - Licentiate title International Business, **Universidad del Pacífico** ([thesis](https://hdl.handle.net/11354/3109
-) outstanding honours)
-* 2016 - BA International Business, **Universidad del Pacífico** (valedictorian, Class of 2016-II)
+* 2023 - Research master Economics and Business, **University of Groningen** - Cum Laude honours
+* 2023 - Honours master, Honours College, **University of Groningen** - founder: [ISG](https://isg-gei.github.io/)
+* 2021 - Licentiate title International Business, **Universidad del Pacífico** - [thesis](https://repositorio.up.edu.pe/handle/11354/3109) outstanding honours
+* 2016 - BA International Business, **Universidad del Pacífico** - valedictorian, Class of 2016-II
 
 ## Refereed publications
   <ul>{% for post in site.publications %}
