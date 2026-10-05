@@ -10,7 +10,7 @@ redirect_from:
 
 I'm JP.  I am doing a PhD at the department of global economics and management at the University of Groningen.
 
-In my dissertation, I write about organizational search and performance feedback.  I am studying how negative performance feedback (i.e., doing badly, a performance shortfall) leads to changes in the direction in which you (and your organization) search for new alternatives and solutions.  Doing badly can also make you retrace our steps and restart your search from a previous one.  This intuition illustrates that searching also involves some backtracking and branching, which I am covering in my dissertation too.  In the last chapter in my dissertation, I focus on how to consistently estimate these models as learning from performance feedback (and learning in general) is inherently an endogenous process.
+In my dissertation, I write about organizational search and performance feedback.  I am studying how negative performance feedback (i.e., doing badly, a performance shortfall) leads to changes in the direction in which you (and your organization) search for new alternatives and solutions.  Doing badly can also make you retrace your steps and restart your search from a previous step.  So, searching involves some backtracking and branching too, which I am covering in my dissertation.  In the last chapter in my dissertation, I focus on how to consistently estimate the effects of learning from performance feedback and search and other outcomes as learning, in general, is inherently an endogenous process.
 
 My dissertation work is supervised by prof. dr. Rian Drogendijk and Dr. Pasi Kuusela.
 
