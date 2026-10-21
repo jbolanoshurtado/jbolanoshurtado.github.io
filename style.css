@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: 'Latin Modern Sans 10';
-  src: url('./lmsans10-boldoblique.woff2') format('woff2');
+  src: url('./fonts/lmsans10-boldoblique.woff2') format('woff2');
   font-weight: bold;
   font-style: oblique;
   font-display: swap;
