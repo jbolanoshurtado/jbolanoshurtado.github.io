@@ -34,7 +34,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Latin Modern Sans 10';
+  font-family: 'Latin Modern Sans 10', Roboto, Helvetica, Arial, sans-serif;
   text-decoration: none;
   scroll-behavior: smooth;
   list-style: none;
